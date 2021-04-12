@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box
+}
+body{
+    background-image: url("img/cat_white_1280x720.jpg");
+}
+.box{
+    width: 400px;
+    height: 150px;
+    background-color: rgba(187, 102, 102, 0.13);
+    backdrop-filter: blur(5px);
+    margin: 150px;
+    border-radius: 10px;
+}
+.box h1{
+    color: rgb(204 134 117);
+}
